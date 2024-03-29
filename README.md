@@ -40,5 +40,6 @@ Figma Design Link - https://www.figma.com/file/rZk1dadSzDDP10k3RezGHG/MediChat?t
 
 ## Screenshots
 
-![Screenshot](https://drive.google.com/file/d/15BKK9INOGKCKpEBrjEjC2raYK7ZNmftg/view?usp=sharing)
+![Screenshot 2024-03-30 023145](https://github.com/sarthakkurothe/medichat-interface/assets/86231596/8082477e-0d1a-4a50-b08e-b49cc26efd73)
+
 
